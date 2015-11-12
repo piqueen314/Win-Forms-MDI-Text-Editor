@@ -1,0 +1,9 @@
+C:\Code\MDITextEditor\MDITextEditor\bin\Debug\MDITextEditor.exe.config
+C:\Code\MDITextEditor\MDITextEditor\bin\Debug\MDITextEditor.exe
+C:\Code\MDITextEditor\MDITextEditor\bin\Debug\MDITextEditor.pdb
+C:\Code\MDITextEditor\MDITextEditor\obj\Debug\MDITextEditor.textEditorForm.resources
+C:\Code\MDITextEditor\MDITextEditor\obj\Debug\MDITextEditor.Properties.Resources.resources
+C:\Code\MDITextEditor\MDITextEditor\obj\Debug\MDITextEditor.csproj.GenerateResource.Cache
+C:\Code\MDITextEditor\MDITextEditor\obj\Debug\MDITextEditor.exe
+C:\Code\MDITextEditor\MDITextEditor\obj\Debug\MDITextEditor.pdb
+C:\Code\MDITextEditor\MDITextEditor\obj\Debug\MDITextEditor.childForm1.resources
